@@ -1,0 +1,388 @@
+LOCUS       NM_001166449            3193 bp    mRNA    linear   PRI 02-OCT-2017
+DEFINITION  Homo sapiens inter-alpha-trypsin inhibitor heavy chain family
+            member 4 (ITIH4), transcript variant 2, mRNA.
+ACCESSION   NM_001166449
+VERSION     NM_001166449.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 3193)
+  AUTHORS   Ohi K, Shimada T, Nitta Y, Kihara H, Okubo H, Uehara T and Kawasaki
+            Y.
+  TITLE     Schizophrenia risk variants in ITIH4 and CALN1 regulate gene
+            expression in the dorsolateral prefrontal cortex
+  JOURNAL   Psychiatr. Genet. 26 (3), 142-143 (2016)
+   PUBMED   26991396
+  REMARK    GeneRIF: this report has further supported for associations of
+            genetic variants in the ITIH4 and CALN1 genes with schizophrenia
+            and provided the first evidence that the variants regulate ITIH4
+            AND CALN1 expression in the dorsolateral prefrontal cortex
+REFERENCE   2  (bases 1 to 3193)
+  AUTHORS   Li Z, Xiang Y, Chen J, Li Q, Shen J, Liu Y, Li W, Xing Q, Wang Q,
+            Wang L, Feng G, He L, Zhao X and Shi Y.
+  TITLE     Loci with genome-wide associations with schizophrenia in the Han
+            Chinese population
+  JOURNAL   Br J Psychiatry 207 (6), 490-494 (2015)
+   PUBMED   26206863
+  REMARK    GeneRIF: confirmed the association of schizophrenia with ITIH3/4 in
+            a Han Chinese population
+REFERENCE   3  (bases 1 to 3193)
+  AUTHORS   Tan Z, Hu Z, Cai EY, Alev C, Yang T, Li Z, Sung J, El-Sayed YY,
+            Shaw GM, Stevenson DK, Butte AJ, Sheng G, Sylvester KG, Cohen HJ
+            and Ling XB.
+  TITLE     Serological targeted analysis of an ITIH4 peptide isoform: a
+            preterm birth biomarker and its associated SNP implications
+  JOURNAL   J Genet Genomics 42 (9), 507-510 (2015)
+   PUBMED   26408095
+  REMARK    GeneRIF: ITIH4 peptide isoform as a preterm birth biomarker and its
+            associated SNP implications
+REFERENCE   4  (bases 1 to 3193)
+  AUTHORS   Lee KY, Feng PH, Ho SC, Chuang KJ, Chen TT, Su CL, Liu WT and
+            Chuang HC.
+  TITLE     Inter-alpha-trypsin inhibitor heavy chain 4: a novel biomarker for
+            environmental exposure to particulate air pollution in patients
+            with chronic obstructive pulmonary disease
+  JOURNAL   Int J Chron Obstruct Pulmon Dis 10, 831-841 (2015)
+   PUBMED   25977605
+  REMARK    GeneRIF: Serum ITIH4 may be a PM10-specific biomarker in COPD and
+            may be related to inflammation.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 3193)
+  CONSRTM   Schizophrenia Working Group of the Psychiatric Genomics Consortium
+  TITLE     Biological insights from 108 schizophrenia-associated genetic loci
+  JOURNAL   Nature 511 (7510), 421-427 (2014)
+   PUBMED   25056061
+REFERENCE   6  (bases 1 to 3193)
+  AUTHORS   Saguchi K, Tobe T, Hashimoto K, Nagasaki Y, Oda E, Nakano Y, Miura
+            NH and Tomita M.
+  TITLE     Isolation and characterization of the human inter-alpha-trypsin
+            inhibitor family heavy chain-related protein (IHRP) gene (ITIHL1)
+  JOURNAL   J. Biochem. 119 (5), 898-905 (1996)
+   PUBMED   8797089
+REFERENCE   7  (bases 1 to 3193)
+  AUTHORS   Choi-Miura NH, Sano Y, Oda E, Nakano Y, Tobe T, Yanagishita T,
+            Taniyama M, Katagiri T and Tomita M.
+  TITLE     Purification and characterization of a novel glycoprotein which has
+            significant homology to heavy chains of inter-alpha-trypsin
+            inhibitor family from human plasma
+  JOURNAL   J. Biochem. 117 (2), 400-407 (1995)
+   PUBMED   7541790
+REFERENCE   8  (bases 1 to 3193)
+  AUTHORS   Nishimura H, Kakizaki I, Muta T, Sasaki N, Pu PX, Yamashita T and
+            Nagasawa S.
+  TITLE     cDNA and deduced amino acid sequence of human PK-120, a plasma
+            kallikrein-sensitive glycoprotein
+  JOURNAL   FEBS Lett. 357 (2), 207-211 (1995)
+   PUBMED   7805892
+REFERENCE   9  (bases 1 to 3193)
+  AUTHORS   Saguchi K, Tobe T, Hashimoto K, Sano Y, Nakano Y, Miura NH and
+            Tomita M.
+  TITLE     Cloning and characterization of cDNA for inter-alpha-trypsin
+            inhibitor family heavy chain-related protein (IHRP), a novel human
+            plasma glycoprotein
+  JOURNAL   J. Biochem. 117 (1), 14-18 (1995)
+   PUBMED   7775381
+REFERENCE   10 (bases 1 to 3193)
+  AUTHORS   Tobe T, Saguchi K, Hashimoto K, Miura NH, Tomita M, Li F, Wang Y,
+            Minoshima S and Shimizu N.
+  TITLE     Mapping of human inter-alpha-trypsin inhibitor family heavy
+            chain-related protein gene (ITIHL1) to human chromosome 3p21-->p14
+  JOURNAL   Cytogenet. Cell Genet. 71 (3), 296-298 (1995)
+   PUBMED   7587397
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DC412911.1, AK298412.1,
+            AC006254.10, BC136392.1 and AW291001.1.
+            
+            Summary: The protein encoded by this gene is secreted into the
+            blood, where it is cleaved by plasma kallikrein into two smaller
+            forms. Expression of this gene has been detected only in liver, and
+            it seems to be upregulated during surgical trauma. This gene is
+            part of a cluster of similar genes on chromosome 3. Two transcript
+            variants encoding different isoforms have been found for this gene.
+            [provided by RefSeq, Oct 2009].
+            
+            Transcript Variant: This variant (2) lacks an alternate in-frame
+            segment compared to variant 1. The resulting isoform (2) has the
+            same N- and C-termini but is shorter compared to isoform 1.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AK298412.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2155590, SAMEA2162895
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-29                DC412911.1         3-31
+            30-1167             AK298412.1         1-1138
+            1168-1168           AC006254.10        6504-6504
+            1169-2836           AK298412.1         1140-2807
+            2837-2913           BC136392.1         2914-2990
+            2914-3193           AW291001.1         15-294              c
+FEATURES             Location/Qualifiers
+     source          1..3193
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="3"
+                     /map="3p21.1"
+     gene            1..3193
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /note="inter-alpha-trypsin inhibitor heavy chain family
+                     member 4"
+                     /db_xref="GeneID:3700"
+                     /db_xref="HGNC:HGNC:6169"
+                     /db_xref="MIM:600564"
+     exon            1..149
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             60..2762
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /note="isoform 2 precursor is encoded by transcript
+                     variant 2; plasma kallikrein-sensitive glycoprotein 120;
+                     inter-alpha-trypsin inhibitor, heavy chain-like, 1;
+                     inter-alpha (globulin) inhibitor H4 (plasma
+                     Kallikrein-sensitive glycoprotein); ITI heavy chain H4;
+                     inter-alpha-inhibitor heavy chain 4; inter-alpha-trypsin
+                     inhibitor family heavy chain-related protein"
+                     /codon_start=1
+                     /product="inter-alpha-trypsin inhibitor heavy chain H4
+                     isoform 2 precursor"
+                     /protein_id="NP_001159921.1"
+                     /db_xref="CCDS:CCDS54596.1"
+                     /db_xref="GeneID:3700"
+                     /db_xref="HGNC:HGNC:6169"
+                     /db_xref="MIM:600564"
+                     /translation="MKPPRPVRTCSKVLVLLSLLAIHQTTTAEKNGIDIYSLTVDSRV
+                     SSRFAHTVVTSRVVNRANTVQEATFQMELPKKAFITNFSMIIDGMTYPGIIKEKAEAQ
+                     AQYSAAVAKGKSAGLVKATGRNMEQFQVSVSVAPNAKITFELVYEELLKRRLGVYELL
+                     LKVRPQQLVKHLQMDIHIFEPQGISFLETESTFMTNQLVDALTTWQNKTKAHIRFKPT
+                     LSQQQKSPEQQETVLDGNLIIRYDVDRAISGGSIQIENGYFVHYFAPEGLTTMPKNVV
+                     FVIDKSGSMSGRKIQQTREALIKILDDLSPRDQFNLIVFSTEATQWRPSLVPASAENV
+                     NKARSFAAGIQALGGTNINDAMLMAVQLLDSSNQEERLPEGSVSLIILLTDGDPTVGE
+                     TNPRSIQNNVREAVSGRYSLFCLGFGFDVSYAFLEKLALDNGGLARRIHEDSDSALQL
+                     QDFYQEVANPLLTAVTFEYPSNAVEEVTQNNFRLLFKGSEMVVAGKLQDRGPDVLTAT
+                     VSGKLPTQNITFQTESSVAEQEAEFQSPKYIFHNFMERLWAYLTIQQLLEQTVSASDA
+                     DQQALRNQALNLSLAYSFVTPLTSMVVTKPDDQEQSQVAEKPMEGESRNRNVHSAGAA
+                     GSRMNFRPGVLSSRQLGLPGPPDVPDHAAYHPFRRLAILPASAPPATSNPDPAVSRVM
+                     NMKIEETTMTTQTPAPIQAPSAILPLPGQSVERLCVDPRHRQGPVNLLSDPEQGVEVT
+                     GQYEREKAGFSWIEVTFKNPLVWVHASPEHVVVTRNRRSSAYKWKETLFSVMPGLKMT
+                     MDKTGLLLLSDPDKVTIGLLFWDGRGEGLRLLLRDTDRFSSHVGGTLGQFYQEVLWGS
+                     PAASDDGRRTLRVQGNDHSATRERRLDYQEGPPGVEISCWSVEL"
+     sig_peptide     60..143
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     144..2759
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /product="inter-alpha-trypsin inhibitor heavy chain H4
+                     isoform 2"
+     exon            150..310
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            311..415
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            416..578
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            579..689
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            690..818
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            819..935
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            936..1104
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1105..1230
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1231..1412
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1413..1598
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1599..1738
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1612..1804
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /standard_name="RH36516"
+                     /db_xref="UniSTS:62449"
+     exon            1739..1893
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1894..1920
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            1921..2046
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2047..2121
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2122..2148
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2149..2265
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2266..2440
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2441..2595
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2596..2692
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     exon            2693..3193
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /inference="alignment:Splign:1.39.8"
+     STS             2748..2875
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /standard_name="A005P36"
+                     /db_xref="UniSTS:21705"
+     regulatory      2873..2878
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+     STS             2875..3185
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+                     /standard_name="SHGC-84788"
+                     /db_xref="UniSTS:104162"
+     polyA_site      2901
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+     polyA_site      3193
+                     /gene="ITIH4"
+                     /gene_synonym="GP120; H4P; IHRP; ITI-HC4; ITIHL1; PK-120;
+                     PK120"
+ORIGIN      
+        1 taatccattc cccacttgct gtcgagttca gaagcctcct ggcagacact ggagccacga
+       61 tgaagccccc aaggcctgtc cgtacctgca gcaaagttct cgtcctgctt tcactgctgg
+      121 ccatccacca gactactact gccgaaaaga atggcatcga catctacagc ctcaccgtgg
+      181 actccagggt ctcatcccga tttgcccaca cggtcgtcac cagccgagtg gtcaataggg
+      241 ccaatactgt gcaggaggcc accttccaga tggagctgcc caagaaagcc ttcatcacca
+      301 acttctccat gatcatcgat ggcatgacct acccagggat catcaaggag aaggctgaag
+      361 cccaggcaca gtacagcgca gcagtggcca agggaaagag cgctggcctc gtcaaggcca
+      421 ccgggagaaa catggagcag ttccaggtgt cggtcagtgt ggctcccaat gccaagatca
+      481 cctttgagct ggtctatgag gagctgctca agcggcgttt gggggtgtac gagctgctgc
+      541 tgaaagtgcg gccccagcag ctggtcaagc acctgcagat ggacattcac atcttcgagc
+      601 cccagggcat cagctttctg gagacagaga gcaccttcat gaccaaccag ctggtagacg
+      661 ccctcaccac ctggcagaat aagaccaagg ctcacatccg gttcaagcca acactttccc
+      721 agcagcaaaa gtccccagag cagcaagaaa cagtcctgga cggcaacctc attatccgct
+      781 atgatgtgga ccgggccatc tccgggggct ccattcagat cgagaacggc tactttgtac
+      841 actactttgc ccccgagggc ctaaccacaa tgcccaagaa tgtggtcttt gtcattgaca
+      901 agagcggctc catgagtggc aggaaaatcc agcagacccg ggaagcccta atcaagatcc
+      961 tggatgacct cagccccaga gaccagttca acctcatcgt cttcagtaca gaagcaactc
+     1021 agtggaggcc atcactggtg ccagcctcag ccgagaacgt gaacaaggcc aggagctttg
+     1081 ctgcgggcat ccaggccctg ggagggacca acatcaatga tgcaatgctg atggctgtgc
+     1141 agttgctgga cagcagcaac caggaggagc ggctgcccga agggagtgtc tcactcatca
+     1201 tcctgctcac cgatggcgac cccactgtgg gggagactaa ccccaggagc atccagaata
+     1261 acgtgcggga agctgtaagt ggccggtaca gcctcttctg cctgggcttc ggtttcgacg
+     1321 tcagctatgc cttcctggag aagctggcac tggacaatgg cggcctggcc cggcgcatcc
+     1381 atgaggactc agactctgcc ctgcagctcc aggacttcta ccaggaagtg gccaacccac
+     1441 tgctgacagc agtgaccttc gagtacccaa gcaatgccgt ggaggaggtc actcagaaca
+     1501 acttccggct cctcttcaag ggctcagaga tggtggtggc tgggaagctc caggaccggg
+     1561 ggcctgatgt gctcacagcc acagtcagtg ggaagctgcc tacacagaac atcactttcc
+     1621 aaacggagtc cagtgtggca gagcaggagg cggagttcca gagccccaag tatatcttcc
+     1681 acaacttcat ggagaggctc tgggcatacc tgactatcca gcagctgctg gagcaaactg
+     1741 tctccgcatc cgatgctgat cagcaggccc tccggaacca agcgctgaat ttatcacttg
+     1801 cctacagctt tgtcacgcct ctcacatcta tggtagtcac caaacccgat gaccaagagc
+     1861 agtctcaagt tgctgagaag cccatggaag gcgaaagtag aaacaggaat gtccactcag
+     1921 ctggagctgc tggctcccgg atgaatttca gacctggggt tctcagctcc aggcaacttg
+     1981 gactcccagg acctcctgat gttcctgacc atgctgctta ccaccccttc cgccgtctgg
+     2041 ccatcttgcc tgcttcagca ccaccagcca cctcaaatcc tgatccagct gtgtctcgtg
+     2101 tcatgaatat gaaaatcgaa gaaacaacca tgacaaccca aaccccagcc cccatacagg
+     2161 ctccctctgc catcctgcca ctgcctgggc agagtgtgga gcggctctgt gtggacccca
+     2221 gacaccgcca ggggccagtg aacctgctct cagaccctga gcaaggggtt gaggtgactg
+     2281 gccagtatga gagggagaag gctgggttct catggatcga agtgaccttc aagaaccccc
+     2341 tggtatgggt tcacgcatcc cctgaacacg tggtggtgac tcggaaccga agaagctctg
+     2401 cgtacaagtg gaaggagacg ctattctcag tgatgcccgg cctgaagatg accatggaca
+     2461 agacgggtct cctgctgctc agtgacccag acaaagtgac catcggcctg ttgttctggg
+     2521 atggccgtgg ggaggggctc cggctccttc tgcgtgacac tgaccgcttc tccagccacg
+     2581 ttggagggac ccttggccag ttttaccagg aggtgctctg gggatctcca gcagcatcag
+     2641 atgacggcag acgcacgctg agggttcagg gcaatgacca ctctgccacc agagagcgca
+     2701 ggctggatta ccaggagggg cccccgggag tggagatttc ctgctggtct gtggagctgt
+     2761 agttctgatg gaaggagctg tgcccaccct gtacacttgg cttccccctg caactgcagg
+     2821 gccgcttctg gggcctggac caccatgggg aggaagagtc ccactcatta caaataaaga
+     2881 aaggtggtgt gagcctggga agtgggtgtc tccagttcca tgtggccaaa tcctagggcc
+     2941 tcaacctcgc atcctgaacc ttagcatcgt ggaacacaga agcttccact gtcagctctc
+     3001 aagagcccat ggccaggaag gcccatgctg agctttcagt ccagcccctt cattttacaa
+     3061 acaaggaaac tgagctcgaa ccacccattt gagatgtcac tgtggccccc agctagaggc
+     3121 ccagggctgg gagcattctc caggagcaga ggttcagtct gcttcatggt ctcttggacc
+     3181 agttttgact aca
+//
+
